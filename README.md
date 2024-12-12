@@ -1,3 +1,19 @@
+# Aplicación Pokedex
+
+## Datos del desarrollador:
+- Nombre: David Joaquin Ramirez Muñoz
+- Carnét: 1904002003
+- Curso: Aplicaciones Moviles II
+- Universidad Montesquieu
+
+## Descripcion: 
+ Aplicación Moviles Pokedex, permite ver mas de 1,000 pokemons, buscar entre ellos  para concer mád de ellos
+
+## API Utillizado
+- (https://pokeapi.co/api/v2/pokemon)
+
+# Started
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
